@@ -8,6 +8,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-chno="3" tvg-id="rai 3" tvg-name="Rai 3" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Rai Tv",Rai 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=rainet/4.0.4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-chno="4" tvg-id="rete 4" tvg-name="Rete 4" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-4-5i5i8lcwinzn.png" group-title="Mediaset",Rete 4
@@ -737,5 +738,6 @@ https://ice07.fluidstream.net/ritmo80.mp3?FLID=1
 https://bbrwebradio.radioca.st/stream?type=http&amp;nocache=6552&1684428942562
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j6by3cev9rkb.png" group-title="Radio Web/Fm",Jolly Fm
 http://nr4.newradio.it:9422/;?1571411143501
+
 
 
