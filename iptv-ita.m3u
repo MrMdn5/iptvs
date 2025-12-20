@@ -17,7 +17,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-chno="6" tvg-id="italia 1" tvg-name="Italia 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-chno="7" tvg-id="la7" tvg-name="La7" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Tv Italia",La 7
-https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia",Tv8
 https://mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-chno="9" tvg-id="nove" tvg-name="Nove" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery",Nove
@@ -737,6 +737,7 @@ https://ice07.fluidstream.net/ritmo80.mp3?FLID=1
 https://bbrwebradio.radioca.st/stream?type=http&amp;nocache=6552&1684428942562
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j6by3cev9rkb.png" group-title="Radio Web/Fm",Jolly Fm
 http://nr4.newradio.it:9422/;?1571411143501
+
 
 
 
